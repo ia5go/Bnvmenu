@@ -1,0 +1,19 @@
+{
+  "name": "bnvmenu",
+  "version": "1.0.0",
+  "description": "Simple js plugin for creating a sidebar that will toggle between open and closed;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "menu mobile",
+    "sidebar",
+    "sidebar toggler",
+    "menu",
+    "open",
+    "iago benvindo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
