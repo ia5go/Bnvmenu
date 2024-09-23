@@ -1,4 +1,4 @@
-export class Bnvmenu {
+export default class Bnvmenu {
   constructor(config) {
     this.errorPrefix = "BnvMenu - ERROR: ";
     this.buttons = document.querySelectorAll(config.button);
@@ -54,7 +54,3 @@ export class Bnvmenu {
     this.sidebar.classList.toggle("bnv-open");
   }
 }
-
-// module.exports = {
-//   Bnvmenu,
-// };
