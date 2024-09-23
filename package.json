@@ -1,6 +1,6 @@
 {
   "name": "bnvmenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple js plugin for creating a sidebar that will toggle between open and closed;",
   "main": "index.js",
   "scripts": {
